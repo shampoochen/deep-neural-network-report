@@ -1,0 +1,2 @@
+model_checkpoint_path: "cifar10-cnn-model.ckpt-2999"
+all_model_checkpoint_paths: "cifar10-cnn-model.ckpt-2999"
